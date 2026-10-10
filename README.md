@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Jared Fisher — 17 years on a live insurance claims desk, self-taught AI builder since March 2026, now building toward AI Product / AI Solutions roles in regulated, operational domains" width="100%">
+  <img src="assets/banner.svg" alt="Jared Fisher — 17 years at Liberty Mutual, 11 as senior appraiser, self-taught AI builder since March 2026, now building toward AI Product / AI Solutions roles in regulated, operational domains" width="100%">
 </p>
 
-I spent 17 years on a high-volume insurance claims desk — starting in the mailroom and working up through claims support, total loss adjusting, field appraisal, and senior auto appraisal — before I ever wrote a line of code. In March 2026, I started teaching myself to build with AI — no CS background, no bootcamp — because I kept seeing the gap between what frontline operational work actually needs and what most software assumes about it. I still work that desk. I build in the hours around it.
+I spent 17 years at Liberty Mutual, 11 as senior appraiser — starting in the mailroom and working up through claims support, total loss handling, field appraisal, and senior auto appraisal — before I ever wrote a line of code. In March 2026, I started teaching myself to build with AI — no CS background, no bootcamp — because I kept seeing the gap between what frontline operational work actually needs and what most software assumes about it. I worked that desk until September 2026 and built in the hours around it.
 
 That combination is the whole thesis: **domain fluency in a regulated, high-volume operational environment, plus the ability to actually ship the tool the domain needs.**
 
 ### 🧾 Claims background
 
-17 years, one company, four roles — claims support (starting in the mailroom) → senior total loss adjuster → field appraiser → senior auto appraiser. Day-to-day: total loss determinations, supplement review, fraud indicators, subrogation, complex shop disputes, OEM position statements — high-volume, regulated, zero patience for a tool that guesses.
+17 years, one company, three roles — claims support (starting in the mailroom) → claims support and total loss handling → senior auto appraiser (field appraisal, then inside appraisal). Day-to-day: total loss determinations, supplement review, fraud indicators, subrogation, complex shop disputes, OEM position statements — high-volume, regulated, zero patience for a tool that guesses.
 
 ### 🚀 Featured: Agentic App Harness
 
@@ -22,7 +22,6 @@ A spec-driven development harness that holds six real, deployed apps to one enfo
 
 <p align="center">
   <img src="https://img.shields.io/badge/guardrails-10%20self--tested-8b5cf6" alt="10 self-tested guardrails">
-  <img src="https://img.shields.io/badge/learned%20lessons-58-6366f1" alt="58 learned lessons">
   <img src="https://img.shields.io/badge/apps-6%20live-14b8a6" alt="6 live apps">
 </p>
 
