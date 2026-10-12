@@ -30,11 +30,6 @@ My appraisal work covered supplement review, total loss determinations, fraud in
 
 At Liberty Mutual, I designed and piloted a RAG-based appraisal assistant and built and demoed a total-loss assistant. I also built PII scrubbing and photo PII redaction tools that were distributed to the team, wrote a department expansion playbook, built a prompt library, and ran a cross-team training session. The assistants were pilots and demos; they were not deployed team-wide.
 
-## Other public repositories
-
-- [Travel Packing Optimizer](https://github.com/jf1shh/Travel-Packing-Optimizer): an archived standalone packing app. The active travel showcase is in [Agentic App Harness](https://jf1shh.github.io/agentic-app-harness/travel-packing-app/).
-- [open-jobs](https://github.com/jf1shh/open-jobs): my fork of [Elliott Dehnbostel's project](https://github.com/elliottdehn/open-jobs), used for job-search tooling. Upstream authorship and data attribution belong to that project.
-
 ## What I'm looking for
 
 Associate Product Manager, AI enablement, and AI operations roles where frontline claims experience helps define useful tools. I'm also open to auto damage appraisal and total-loss claims roles. Based in Seattle, Washington; looking for remote work and available to start immediately.
