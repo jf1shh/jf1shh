@@ -8,7 +8,7 @@
 
 In March 2026 I started teaching myself to build with AI, with no coding background. I build RAG tools and multi-agent workflows with AI coding agents. I own the workflow requirements, direct the build, and check the results against the problem the tool is supposed to solve.
 
-**[LinkedIn](https://www.linkedin.com/in/jaredfisher-ai/) · [Live portfolio](https://jf1shh.github.io/) · [GitHub repositories](https://github.com/jf1shh?tab=repositories)**
+**[LinkedIn](https://www.linkedin.com/in/jaredfisher-ai/) · [YouTube](https://www.youtube.com/@JaredFisherBuilds) · [Live portfolio](https://jf1shh.github.io/) · [GitHub repositories](https://github.com/jf1shh?tab=repositories)**
 
 ## Featured projects
 
