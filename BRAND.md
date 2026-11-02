@@ -48,4 +48,5 @@ Facts to reuse verbatim: 17 years at Liberty Mutual, 11 as senior appraiser; bui
 | `assets/banner.svg` (this repo) | On brand |
 | CV master template | Violet `#7C3AED` accents |
 | ClaimsRAG and harness READMEs | To do |
-| Portfolio page | To do |
+| Portfolio page | Live at https://jf1shh.github.io/ (repo `jf1shh/jf1shh.github.io`): Ink background, Violet/Lavender gradients, Spark rare |
+| LinkedIn and profile README links to the portfolio | To do |
