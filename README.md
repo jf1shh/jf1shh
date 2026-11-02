@@ -4,7 +4,9 @@
 
 # Jared Fisher
 
-**Claims expert building AI for insurance claims.** I spent 17 years at Liberty Mutual, 11 as senior appraiser. I started in the mailroom in 2008, moved through claims support and total-loss work, and worked in auto appraisal from October 2014 to September 2026.
+**Self-taught AI builder.** No formal coding background. I build apps and tools with AI, keep learning, and share what works so others can do it too.
+
+I spent 17 years at Liberty Mutual, 11 as senior appraiser. I started in the mailroom in 2008, moved through claims support and total-loss work, and worked in auto appraisal from October 2014 to September 2026.
 
 In March 2026 I started teaching myself to build with AI, with no coding background. I build RAG tools and multi-agent workflows with AI coding agents. I own the workflow requirements, direct the build, and check the results against the problem the tool is supposed to solve.
 
