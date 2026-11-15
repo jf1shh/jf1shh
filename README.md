@@ -10,6 +10,8 @@ In March 2026 I started teaching myself to build with AI, with no coding backgro
 
 **[LinkedIn](https://www.linkedin.com/in/jaredfisher-ai/) · [Live portfolio](https://jf1shh.github.io/) · [GitHub repositories](https://github.com/jf1shh?tab=repositories)**
 
+Elsewhere: [X](https://x.com/JaredFishe19708) · [Instagram](https://www.instagram.com/jf1shh/) · [itch.io](https://jf1shh.itch.io/)
+
 ## Featured projects
 
 ### ClaimsRAG
@@ -27,6 +29,12 @@ An independent, local-first claims retrieval project built with AI coding agents
 A spec-driven framework for AI-assisted app development, with six deployed web and mobile app demos. Contract-first Zod schemas, behavior-driven unit and end-to-end tests, and automated accessibility checks run in CI. A deterministic Sense → Propose → Act → Verify → Learn loop detects drift and generates work orders for a coding agent, with no embedded LLM or API key.
 
 [Live showcase](https://jf1shh.github.io/agentic-app-harness/) · [Repository](https://github.com/jf1shh/agentic-app-harness)
+
+### Jump Cut
+
+A stunt-driving game where you direct the cut: drive each stunt for real, or hold to cut past it. My solo entry to the 2026 Epic AI MegaJam (Nov 11-15), built in Unreal Engine 5.9 with AI agents (Claude Code).
+
+[Play](https://jf1shh.itch.io/jump-cut) · [Trailer](https://youtu.be/0jnfxe_LziE) · [Dev log](https://jf1shh.github.io/jump-cut-jam-tools/) · [Press kit](https://jf1shh.github.io/jump-cut-jam-tools/press-kit/) · [Source](https://github.com/jf1shh/jump-cut-jam-tools)
 
 ## Claims experience and AI enablement
 
