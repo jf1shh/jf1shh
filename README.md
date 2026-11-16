@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Jared Fisher — 17 years at Liberty Mutual, 11 as senior appraiser; now building AI for insurance claims" width="100%">
+  <img src="assets/banner.svg" alt="Jared Fisher — AI agent builder: claims AI, developer tools and games" width="100%">
 </p>
 
 # Jared Fisher
+
+I direct teams of AI agents to build real things: claims AI, developer tools and games.
 
 **Claims expert building AI for insurance claims.** I spent 17 years at Liberty Mutual, 11 as senior appraiser. I started in the mailroom in 2008, moved through claims support and total-loss work, and worked in auto appraisal from October 2014 to September 2026.
 
